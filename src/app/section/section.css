@@ -1,0 +1,13 @@
+.container-section {
+    width: 1, 140px;
+    height: 927px;
+    background: var(--primary-color);
+
+}
+
+.card-carrousel {
+    width: 1, 140px;
+    height: 236px;
+    gap: 16px;
+
+}

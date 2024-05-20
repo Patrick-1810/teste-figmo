@@ -5,7 +5,7 @@ import "./header.css"
 export function Header() {
     return (
         <header className="header">
-            <nav>
+            <nav className="nav-mae">
                 <div className="image-header">
                     <Image
                         src="/iconeHeader.svg"
