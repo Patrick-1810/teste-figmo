@@ -1,3 +1,8 @@
+:root {
+  --primary-color: #170D19;
+  --secudary-color: radial-gradient(52.11% 100% at 52.11% 0%, #FF6864 0%, #E90083 100%);
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
