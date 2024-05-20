@@ -1,0 +1,18 @@
+.sidebar {
+    background-color: brown;
+    width: 240px;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.sidebar {
+    background-color: brown;
+    width: 240px;
+    height: 100%;
+    /* Altura da sidebar deve ser 100% do container */
+    position: absolute;
+    left: 0;
+    top: 0;
+}
