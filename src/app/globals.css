@@ -2,6 +2,10 @@
   --primary-color: #170D19;
   --secudary-color: radial-gradient(52.11% 100% at 52.11% 0%, #FF6864 0%, #E90083 100%);
   --terciary-color: #fff;
+  --border-color: #35243D;
+  --color-hover: linear-gradient(129.59deg, #FF01B8 2.58%, #FF6865 95.56%);
+  --color-text-card: #826B8E;
+
 }
 
 * {
